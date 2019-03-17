@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "2018"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/2018-teaching
+venue: "University, Software Engineering"
+date: 2018-01-01
 location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Formal Languages and Automata Theory
 ======
 
-Heading 2
+Introduction to Compiler Design
 ======
 
-Heading 3
+Advanced Software Engineering
+======
+
+System Analysis and Design
+======
+
+Introduction to Databases
 ======
