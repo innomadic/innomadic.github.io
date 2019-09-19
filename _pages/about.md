@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is me
+My name is Nick. I am a family man and a semi-nomadic software engineer. 
 
-a header?
-======
-more about me
+I teach and consult in software engineering.
+
+# Current Interests 
+
+* automata theory
+* compilers
+* Python/Django
+* educational software
+* educating and inspiring young software engineers
+* devops software like Ansible 
