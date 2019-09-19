@@ -8,7 +8,7 @@ date: 2018-01-01
 location: "East Africa"
 ---
 
-## 2019
+**2019**
 
 * Formal Languages and Automata Theory
 * Compiler Design
@@ -16,7 +16,7 @@ location: "East Africa"
 * Introduction to Databases
 * Advanced Software Engineering
 
-## 2018
+**2018**
 
 * Formal Languages and Automata Theory
 * Compiler Design
