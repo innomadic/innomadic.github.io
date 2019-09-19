@@ -8,15 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nick. I am a family man and a semi-nomadic software engineer. 
+My name is Nick. I am a family man and a semi-nomadic software engineer and instructor
 
-I teach and consult in software engineering.
+# Experience 
+
+* Software Engineering
+* Data Collection, Analysis, and Reporting
+* Information Technology Consulting
+* Computer and Network Security
+* Software Engineering Instruction
 
 # Current Interests 
 
 * automata theory
 * compilers
+* language learning
+* natural language processing
 * Python/Django
 * educational software
 * educating and inspiring young software engineers
-* devops software like Ansible 
+* devops
