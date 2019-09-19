@@ -3,9 +3,9 @@ title: "Technology as Scouting"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-04-16-technology-as-scouting
-venue: "Testing Institute of America 2014 Annual Conference"
+venue: ""
 date: 2019-04-16
-location: ""
+location: "East Africa"
 ---
 
 One of the most famous rules of boy scouts is:

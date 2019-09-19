@@ -3,12 +3,12 @@ title: "University Instruction"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching
-venue: ""
+venue: "Software Engineering Department"
 date: 2018-01-01
-location: "City, Country"
+location: "East Africa"
 ---
 
-# 2019
+## 2019
 
 * Formal Languages and Automata Theory
 * Compiler Design
@@ -16,7 +16,7 @@ location: "City, Country"
 * Introduction to Databases
 * Advanced Software Engineering
 
-# 2018
+## 2018
 
 * Formal Languages and Automata Theory
 * Compiler Design
