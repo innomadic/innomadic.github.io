@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Quick Links"
-  avatar           : "profile.png"
+  name             : ""
+  avatar           : "camel.png"
   bio              : "Family man, software engineer and instructor."
   location         : "Horn of Africa"
   employer         :
